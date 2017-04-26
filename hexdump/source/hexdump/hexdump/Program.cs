@@ -34,7 +34,7 @@ namespace hexdump
                                 Console.Write(hex + " ");
                             }
                             else {
-                                Console.Write("  ");
+                                Console.Write("   ");
                             }
 
                             if (i == 7) {

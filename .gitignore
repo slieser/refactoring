@@ -30,3 +30,7 @@ _ReSharper*/
 .hg
 .hgignore
 *.crunchsolution.local.xml
+*.sdf
+/ipch/
+cplusplus/beispiel/ipch/BEISPIEL.TESTS-110a91fc/BEISPIEL.ipch
+cplusplus/beispiel/ipch/BEISPIEL-b545d59a/BEISPIEL-e703319.ipch
